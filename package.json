@@ -1,0 +1,33 @@
+{
+  "name": "sample-electron-express",
+  "version": "1.0.0",
+  "description": "Sample to run Express inside Electron app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/HoangNguyen17193/sample-electron-express",
+  "keywords": [
+    "Electron",
+    "Express",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Hoang Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^5.0.8",
+    "electron-packager": "^14.0.6"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "morgan": "^1.9.1"
+  }
+}
