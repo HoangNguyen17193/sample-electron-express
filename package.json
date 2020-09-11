@@ -16,7 +16,7 @@
   "author": "Hoang Nguyen",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^5.0.8",
+    "electron": "^7.2.4",
     "electron-packager": "^14.0.6"
   },
   "dependencies": {
